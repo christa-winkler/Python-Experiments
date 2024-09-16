@@ -14,6 +14,6 @@ I am Christa Winkler, and I work as an Assistant Professor in Higher Education L
 - Applications of latent variable modeling in higher education
 - Emerging trends in quantitative educational research and training
 
-In order to test the inclusion of a photograph, below is a photo of the Cliffs of Moher in Ireland, which was taken on my smart phone while attending a European higher education conference in summer 2024.
+In order to test the inclusion of a photograph, below is a photo from the Cliffs of Moher Ireland, which was taken on my smartphone while attending a European higher education conference in summer 2024.
 
 ![Cliffs of Moher in Ireland](https://github.com/christa-winkler/Python-Experiments/blob/22da1f2187adbe97b8c5de7a78cb14530ed1fe21/CliffsSummer24.JPG)
